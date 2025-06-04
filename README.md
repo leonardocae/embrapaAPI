@@ -24,7 +24,7 @@ API pública para consulta de dados vitivinícolas extraídos do site da Embrapa
 ### ☁️ Infraestrutura
 
 - **Plataforma:** [Render](https://render.com) (plano gratuito).
-- **API Online:** [https://embrapaapi.onrender.com](https://embrapaapi.onrender.com)
+- **API Online:** [https://embrapaapi.onrender.com/api/producao](https://embrapaapi.onrender.com/api/producao)
 - **Recursos:** 512MB RAM, CPU compartilhada.
 
 ### ⚙️ Deploy Automatizado
