@@ -10,10 +10,7 @@ def get_data(opcao):
         response.raise_for_status()
         
         soup = BeautifulSoup(response.text, 'html.parser')
-        
-        # Aqui você precisa implementar a lógica para extrair os dados específicos
-        # Esta é uma implementação genérica - você precisará adaptar para cada tabela
-        
+         
         data = []
         tables = soup.find_all('table', class_='tb_dados')
         

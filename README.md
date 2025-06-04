@@ -10,7 +10,3 @@ API para consulta dos dados de vitivinicultura disponíveis no site da Embrapa.
 - `GET /api/importacao` - Dados de importação
 - `GET /api/exportacao` - Dados de exportação
 
-## Exemplo de Uso
-
-```bash
-curl https://sua-api.onrender.com/api/producao
